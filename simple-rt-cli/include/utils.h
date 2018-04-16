@@ -19,7 +19,7 @@
 #ifndef _UTILS_H_
 #define _UTILS_H_
 
-#define DEFAULT_NAMESERVER "8.8.8.8"
+#define DEFAULT_NAMESERVER "1.0.0.1"
 
 #define ACC_BUF_SIZE 4096
 
